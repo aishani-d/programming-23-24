@@ -16,3 +16,9 @@ input("What was your favourite quote? ")
 
 # Respond
 print("That's my favourite too!")
+
+# Ask the usser what their favourite food is
+fave_food = input("What's your favourite food? ")
+
+# Respond to their answr
+print(f"Oooo, {fave_food} sounds good.")
