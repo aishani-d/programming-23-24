@@ -2,6 +2,8 @@
 # Author: Aishani
 # Date: 10 October 2023
 
+import time
+
 # Create a list of groceries 
 groceries = ["hot wheels", "lego", "ice cream", "video games"]
 
@@ -47,3 +49,4 @@ countdown = ["10", "9", "8", "7", "6", "5", "4", "3", "2", "1", "Happy New Year!
 
 for row in countdown:
     print(row)
+    time.sleep(1)
