@@ -42,9 +42,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1777aa60fb544975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "618c632eb1b12cf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Type.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd0e072020114828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Recpmmendation SYstems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iteration.md",
+                "file": "2 - Recpmmendation SYstems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iteration.md",
+                "file": "2 - Recpmmendation SYstems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iteration.md"
+                "file": "2 - Recpmmendation SYstems.md"
               }
             }
           }
@@ -171,20 +207,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55228a0ab571167a",
+  "active": "dd0e072020114828",
   "lastOpenFiles": [
-    "loop_practice.py",
-    "Errors.md",
-    "Strings.md",
-    "food_suggestion_bot.py",
-    "Iteration.md",
     "Type.md",
-    "Boolean.md",
-    "Conditionals.md",
+    "2 - Recpmmendation SYstems.md",
     "1 - Natural Language Processing.md",
+    "Conditionals.md",
     "Design.md",
-    "Markdown (Re)Introduction.md",
+    "Errors.md",
+    "Iteration.md",
     "Lists.md",
+    "Markdown (Re)Introduction.md",
+    "quiz1_practice.md",
+    "Strings.md",
+    "numbers_practice.py",
+    "loop_practice.py",
+    "food_suggestion_bot.py",
+    "Boolean.md",
     "Design.mdMarkdown (raw)Open file.webloc"
   ]
 }

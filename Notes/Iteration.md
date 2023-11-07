@@ -104,3 +104,20 @@ For example, we can leverage this in the way below:
 for i in range(5):
 	print(i)
 ```
+
+# range (`<number>`)
+
+range ( ) is a function that gives you a sequence of numbers starting at 0 by default. By default it also goes up by 1. It stops right before the number that we provide as input.
+
+```python
+range(100)    # Sequence (0, 1, 2, ... 99)
+
+```
+
+We can modify range ( ) to start, stop, and count up/down by different numbers.
+
+```python
+range(<stop>)
+range(<start>, <stop>)
+range(<start>, <stop>, <step>)
+```
