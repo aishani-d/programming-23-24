@@ -51,5 +51,4 @@ else:
 		"Yum!"
 	]
 	print(random.choice(list_of_food_responses))
-
 ```

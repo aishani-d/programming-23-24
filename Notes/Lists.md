@@ -26,15 +26,3 @@ some_list[-2]         # "Sara"
 Inside the brackets, we give the *index* of the item we want 
 Python uses **0-index** counting, which means we start counting at 0
 
-# Modules
-
-**Modules** are pieces of code that we can borrow in Python
-This includes things like functions
-
-> For example, in `random` we use the `.choice()` function to choose something randomly from [[Lists]]
-
-These pieces of code are not automatically included, so we need to `import` them into our code explicitly
-
-# `import`
-The `import` keyword loads the module into our Python file
-**`import` should be at the top of our file under the header
