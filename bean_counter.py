@@ -34,7 +34,7 @@ for y in range(jelly_bean_img.height):
         # Detect the current pixel's colour
         if colour_helper.pixel_to_name(current_pixel) == "red":
             red_pixels.append((x, y))
-        elif colour_helper.pixel_to_name(current_pixel) == "green":
+        elif colour_helper.pixel_to_name(current_pixel) == "jelly bean green":
             green_pixels.append((x, y))
 
 # Create a map of all red pixels "found"
