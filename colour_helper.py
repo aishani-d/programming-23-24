@@ -13,15 +13,21 @@ def pixel_to_name(pixel: tuple) -> str:
     """
     red, green, blue = pixel
 
-    # TODO: detect red pixels
+    # TODO: detect jelly bean green
     if red < 200 and blue < 200 and green > 220:
         return "green"
     elif red > 170 and green < 60 and blue < 60:
         return "red"
     elif red < 60 and green > 80 and blue < 60:
         return "jelly bean green"
+    elif red > 218 and 190 < green < 220 and blue < 10:
+        return "jelly bean yellow"
     else:
         return "colour unknown"
+
+
+print(pixel_to_name((180, 3, 2)))
+print(pixel_to_name((255, 255, 255)))
 
 def is_light(pixel: tuple) -> bool:
     """Returns True if the pixel is a "light" pixel
